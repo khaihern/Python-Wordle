@@ -16,7 +16,7 @@ Simply download/clone this project onto your device and run the main.py python f
 
 ## Can I try this game out without downloading it?
 
-Yes, you can try it out on Replit with this [url]() in your browser. However, you would need the internet in this case and the project might not run as fast as it would locally due to Replit's limitation.
+Yes, you can try it out on Replit with this [url](https://replit.com/@khaihern/wordle) in your browser. It is important that you click the fullscreen button so that you can view the whole window, including the keyboard. However, you would need the internet in this case and the project might not run as fast as it would locally due to Replit's limitation.
 
 ## How and why I built this app?
 
