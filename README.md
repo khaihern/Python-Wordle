@@ -25,5 +25,5 @@ Yes, you can try it out on Replit with this [url](https://replit.com/@khaihern/w
 
 I built this app using Python and the Pygame module! After having been using python for a while, I wanted to see if I can apply my python skillset "visually" so I started to learn Pygame. Great thanks to [Tech with Tim YouTube Channel](https://www.youtube.com/c/TechWithTim) for teaching me many of the basics and best practices.
 
-## LICENSE
+## License
 Python Wordle is licensed under the terms of the [GNU General Public License v3.0](https://github.com/khaihern/Python-Wordle/blob/master/LICENSE).
