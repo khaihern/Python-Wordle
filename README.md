@@ -1,4 +1,4 @@
-<img src="https://github.com/khaihern/Python-Wordle/blob/master/logo.png" alt="Wordle-Pygame-Logo" align="right" width="128px"></img>
+<img src="https://github.com/khaihern/Python-Wordle/blob/master/images/logo.png" alt="Wordle-Pygame-Logo" align="right" width="128px"></img>
 # Welcome to Python Wordle's repository!
 [![](https://img.shields.io/badge/license-GPL--3.0-blue)](https://github.com/khaihern/Python-Wordle/blob/master/LICENSE)
 [![](https://img.shields.io/badge/discuss-on%20github-black)](https://github.com/khaihern/Python-Wordle/discussions)
@@ -7,6 +7,8 @@
 
 A clone of the popular web-based, puzzle game Wordle originally made by Josh Wardle. This version is made using Pygame in Python for users to play on their device. Players have 6 chances to guess a 5-letter word.
 
+<img src="https://github.com/khaihern/Python-Wordle/blob/master/images/python-wordle-screenshot.png" alt="wordle-pygame-screenshot" align="left"></img>
+&nbsp;
 ### What are the new features in this version?
 
 1. Users can download the game onto their device to play locally. No need to have an internet to enjoy at all.
