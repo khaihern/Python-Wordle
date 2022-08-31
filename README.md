@@ -1,3 +1,4 @@
+<img src="https://github.com/khaihern/Python-Wordle/blob/master/logo.png" alt="Wordle-Pygame-Logo" align="right" width="128px"></img>
 # Welcome to Python Wordle's repository!
 
 ## About
